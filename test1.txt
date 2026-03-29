@@ -1,0 +1,6 @@
+<<<<<<< Updated upstream
+=======
+changes from bugfix
+
+from footer1
+>>>>>>> Stashed changes
